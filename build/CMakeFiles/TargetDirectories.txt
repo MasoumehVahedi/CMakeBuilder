@@ -1,3 +1,0 @@
-/Users/vahedi/Documents/MyGithubProject/CMakeProject/build/CMakeFiles/run_python_script.dir
-/Users/vahedi/Documents/MyGithubProject/CMakeProject/build/CMakeFiles/edit_cache.dir
-/Users/vahedi/Documents/MyGithubProject/CMakeProject/build/CMakeFiles/rebuild_cache.dir
